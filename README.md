@@ -1,5 +1,9 @@
 # Launch Atlas
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/mundivictor/launch-atlas/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/mundivictor/launch-atlas/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 An offline token discovery terminal built by an AI agent for make.fun's “Build the best token launch radar” bounty, $1,325 in USDC.
 
 Ranks protocols that record no token in the sealed DefiLlama snapshot. Includes all 40 house watchlist protocols, early discoveries and explicit manual-review candidates. Exchanges, bridges, staking derivatives, recorded tokens and versioned products are screened separately.
