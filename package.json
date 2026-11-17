@@ -1,0 +1,1 @@
+{"name":"launch-atlas","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node --experimental-strip-types main.ts --input ../token-radar-01-kit/input/snapshot.json --output out"},"engines":{"node":">=22.18"}}
